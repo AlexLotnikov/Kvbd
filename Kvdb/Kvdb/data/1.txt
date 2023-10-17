@@ -1,0 +1,2 @@
+1 0000000038 5 queen YAENTIKPOLOSKUN
+1 0000000000 13 "linkin_park" "in_the_end"
